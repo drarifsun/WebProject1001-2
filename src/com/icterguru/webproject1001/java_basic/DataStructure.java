@@ -9,9 +9,9 @@ public class DataStructure {
 		CharArray[2] = 'L';
 		CharArray[3] = 'L';
 		CharArray[4] = 'O';
-		for (char c : CharArray)
+		//for (char c : CharArray)
 			for (int i = 0; i < CharArray.length; i++) {
-				System.out.println(c);
+				//System.out.println(c);
 				System.out.println(CharArray[i]);
 			}
 	}

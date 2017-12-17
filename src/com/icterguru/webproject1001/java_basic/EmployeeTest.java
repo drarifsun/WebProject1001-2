@@ -7,12 +7,12 @@ public class EmployeeTest {
 		String designation;
 		double salary;
 
-		// This is the constructor of the class Employee
+		// This is the constructor of the class EmployeeTest
 		public EmployeeTest(String name) {
 			this.name = name;
 		}
 
-		// Assign the age of the Employee to the variable age.
+		// Assign the age of the EmployeeTest to the variable age.
 		public void empAge(int empAge) {
 			age = empAge;
 		}

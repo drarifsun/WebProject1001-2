@@ -1,4 +1,4 @@
-package com.icterguru.webproject.methodoverriding;
+package com.icterguru.webproject1001.methodoverriding;
 
 public class ClassC extends ClassB {
 	public void add(int a,int b) {
