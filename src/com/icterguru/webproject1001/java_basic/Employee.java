@@ -15,7 +15,7 @@ public class Employee {
 			empTwo.empDesignation("Software Engineer");
 			empTwo.empSalary(5000);
 			empTwo.printEmployee();
-			System.out.println("Equal opportunity employer");
+			System.out.println("Equal opportunity employer policy");
 		}
 	}
 
